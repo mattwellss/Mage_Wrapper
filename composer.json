@@ -1,6 +1,6 @@
 {
     "name": "mattwellss/mage-wrapper",
-    "license": "BSD-2-Clause",
+    "license": "MIT",
     "type": "magento-module",
     "description": "Magento proxy object",
     "homepage": "https://github.com/mattwellss/Mage_Proxy",
